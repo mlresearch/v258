@@ -1,8 +1,8 @@
 ---
-title: " Quantifying Knowledge Distillation using Partial Information Decomposition "
-software: " https://github.com/pasandissanayake/kd-rid "
-openreview: " https://openreview.net/forum?id=xzLgVKWmz6 "
-abstract: " Knowledge distillation deploys complex machine learning models in resource-constrained
+title: Quantifying Knowledge Distillation using Partial Information Decomposition
+software: https://github.com/pasandissanayake/kd-rid
+openreview: xzLgVKWmz6
+abstract: 'Knowledge distillation deploys complex machine learning models in resource-constrained
   environments by training a smaller student model to emulate internal representations
   of a complex teacher model. However, the teacher’s representations can also encode
   nuisance or additional information not relevant to the downstream task. Distilling
@@ -16,14 +16,14 @@ abstract: " Knowledge distillation deploys complex machine learning models in re
   to incorporate redundant information as a regularizer, leading to our framework
   of Redundant Information Distillation (RID). RID leads to more resilient and effective
   distillation under nuisance teachers as it succinctly quantifies task-relevant knowledge
-  rather than simply aligning student and teacher representations. "
+  rather than simply aligning student and teacher representations.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: dissanayake25a
 month: 0
-tex_title: " Quantifying Knowledge Distillation using Partial Information Decomposition "
+tex_title: Quantifying Knowledge Distillation using Partial Information Decomposition
 firstpage: 4474
 lastpage: 4482
 page: 4474-4482

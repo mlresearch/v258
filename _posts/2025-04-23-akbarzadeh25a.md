@@ -1,8 +1,8 @@
 ---
-title: " Planning and Learning in Risk-Aware Restless Multi-Arm Bandits "
-software: " https://github.com/nima-akbarzadeh/AISTATS25 "
-openreview: " https://openreview.net/forum?id=6Za8OuaTtL "
-abstract: " In restless multi-arm bandits, a central agent is tasked with optimally
+title: Planning and Learning in Risk-Aware Restless Multi-Arm Bandits
+software: https://github.com/nima-akbarzadeh/AISTATS25
+openreview: 6Za8OuaTtL
+abstract: In restless multi-arm bandits, a central agent is tasked with optimally
   distributing limited resources across several bandits (arms), with each arm being
   a Markov decision process. In this work, we generalize the traditional restless
   multi-arm bandit problem with a risk-neutral objective by incorporating risk-awareness.
@@ -13,14 +13,14 @@ abstract: " In restless multi-arm bandits, a central agent is tasked with optima
   with the number of episodes and quadratically with the number of arms. The efficacy
   of our method in reducing risk exposure in restless multi-arm bandits is illustrated
   through a set of numerical experiments in the contexts of machine replacement and
-  patient scheduling applications under both planning and learning setups. "
+  patient scheduling applications under both planning and learning setups.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: akbarzadeh25a
 month: 0
-tex_title: " Planning and Learning in Risk-Aware Restless Multi-Arm Bandits "
+tex_title: Planning and Learning in Risk-Aware Restless Multi-Arm Bandits
 firstpage: 991
 lastpage: 999
 page: 991-999

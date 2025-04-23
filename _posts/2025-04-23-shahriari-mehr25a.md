@@ -1,28 +1,27 @@
 ---
-title: " Asynchronous Decentralized Optimization with Constraints: Achievable Speeds
-  of Convergence for Directed Graphs "
-openreview: " https://openreview.net/forum?id=fm4PSeWaaQ "
-abstract: " We propose a novel decentralized convex optimization algorithm called
-  ASY-DAGP, where each agent has its own distinct objective function and constraint
-  set. Agents compute at different speeds, and their communication is delayed and
-  directed. Employing local buffers, ASY-DAGP enhances asynchronous communication
-  and is robust to challenging scenarios such as message failure. We validate these
-  features by numerical experiments. By analyzing ASY-DAGP, we provide the first sublinear
-  convergence rate for the above setup under mild assumptions. This rate depends on
-  a novel characterization of delay profiles, which we term the delay factor. We calculate
-  the delay factor for the well-known bounded delay profiles, providing new insights
-  for these scenarios. Our analysis is conducted by introducing a novel approach tied
-  to the celebrated PEP framework. Our approach does not require the design of Lyapunov
-  functions and instead provides a novel insight into the optimization algorithms
-  as linear systems. "
+title: 'Asynchronous Decentralized Optimization with Constraints: Achievable Speeds
+  of Convergence for Directed Graphs'
+openreview: fm4PSeWaaQ
+abstract: We propose a novel decentralized convex optimization algorithm called ASY-DAGP,
+  where each agent has its own distinct objective function and constraint set. Agents
+  compute at different speeds, and their communication is delayed and directed. Employing
+  local buffers, ASY-DAGP enhances asynchronous communication and is robust to challenging
+  scenarios such as message failure. We validate these features by numerical experiments.
+  By analyzing ASY-DAGP, we provide the first sublinear convergence rate for the above
+  setup under mild assumptions. This rate depends on a novel characterization of delay
+  profiles, which we term the delay factor. We calculate the delay factor for the
+  well-known bounded delay profiles, providing new insights for these scenarios. Our
+  analysis is conducted by introducing a novel approach tied to the celebrated PEP
+  framework. Our approach does not require the design of Lyapunov functions and instead
+  provides a novel insight into the optimization algorithms as linear systems.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: shahriari-mehr25a
 month: 0
-tex_title: " Asynchronous Decentralized Optimization with Constraints: Achievable
-  Speeds of Convergence for Directed Graphs "
+tex_title: 'Asynchronous Decentralized Optimization with Constraints: Achievable Speeds
+  of Convergence for Directed Graphs'
 firstpage: 2575
 lastpage: 2583
 page: 2575-2583

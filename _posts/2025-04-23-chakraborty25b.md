@@ -1,9 +1,9 @@
 ---
-title: " Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis
-  using GANs "
-software: " https://github.com/saptarshic27/CG "
-openreview: " https://openreview.net/forum?id=lUu0cJ2ifh "
-abstract: " The field of unpaired image-to-image translation has undergone a significant
+title: Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis using
+  GANs
+software: https://github.com/saptarshic27/CG
+openreview: lUu0cJ2ifh
+abstract: "The field of unpaired image-to-image translation has undergone a significant
   transformation with the introduction of Generative Adversarial Networks (GANs),
   with CycleGAN and DiscoGAN as prominent variants.   While these models show impressive
   empirical performance, their statistical properties are  under-studied. In this
@@ -18,15 +18,15 @@ abstract: " The field of unpaired image-to-image translation has undergone a sig
   loss term for ensuring distributional cycle consistency.\tAdditionally, we provide
   insights into the relationship between the network size and the number of data points.
   Notably, as the true model exhibits greater smoothness, it suffices to work with
-  smaller networks. "
+  smaller networks."
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chakraborty25b
 month: 0
-tex_title: " Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis
-  using GANs "
+tex_title: Statistical Guarantees for Unpaired Image-to-Image Cross-Domain Analysis
+  using GANs
 firstpage: 2404
 lastpage: 2412
 page: 2404-2412

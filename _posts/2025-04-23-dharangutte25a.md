@@ -1,8 +1,8 @@
 ---
-title: " Differentially Private Range Queries with Correlated Input Perturbation "
-software: " https://github.com/prathameshtd/DPRQ-correlated-noise "
-openreview: " https://openreview.net/forum?id=7Xc2asGD0p "
-abstract: " This work proposes a class of differentially private mechanisms for linear
+title: Differentially Private Range Queries with Correlated Input Perturbation
+software: https://github.com/prathameshtd/DPRQ-correlated-noise
+openreview: 7Xc2asGD0p
+abstract: This work proposes a class of differentially private mechanisms for linear
   queries, in particular range queries, that leverages correlated input perturbation
   to simultaneously achieve unbiasedness, consistency, statistical transparency, and
   control over utility requirements in terms of accuracy targets expressed either
@@ -10,14 +10,14 @@ abstract: " This work proposes a class of differentially private mechanisms for 
   proposed Cascade Sampling algorithm instantiates the mechanism exactly and efficiently.
   Our theoretical and empirical analysis demonstrates that we achieve near-optimal
   utility, effectively compete with other methods, and retain all the favorable statistical
-  properties discussed earlier. "
+  properties discussed earlier.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: dharangutte25a
 month: 0
-tex_title: " Differentially Private Range Queries with Correlated Input Perturbation "
+tex_title: Differentially Private Range Queries with Correlated Input Perturbation
 firstpage: 1504
 lastpage: 1512
 page: 1504-1512

@@ -1,7 +1,7 @@
 ---
-title: " Dissecting the Impact of Model Misspecification in Data-Driven Optimization "
-openreview: " https://openreview.net/forum?id=Q1deZl7rFQ "
-abstract: " Data-driven optimization aims to translate a machine learning model into
+title: Dissecting the Impact of Model Misspecification in Data-Driven Optimization
+openreview: Q1deZl7rFQ
+abstract: Data-driven optimization aims to translate a machine learning model into
   decision-making by optimizing decisions on estimated costs. Such a pipeline can
   be conducted by fitting a distributional model which is then plugged into the target
   optimization problem. While this fitting can utilize traditional methods such as
@@ -15,14 +15,14 @@ abstract: " Data-driven optimization aims to translate a machine learning model 
   is misspecified, while the traditional approach can be advantageous when the model
   is nearly well-specified. Our comparison is powered by finite-sample tail regret
   bounds that are derived via new higher-order expansions of regrets and the leveraging
-  of a recent Berry-Esseen theorem. "
+  of a recent Berry-Esseen theorem.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: elmachtoub25a
 month: 0
-tex_title: " Dissecting the Impact of Model Misspecification in Data-Driven Optimization "
+tex_title: Dissecting the Impact of Model Misspecification in Data-Driven Optimization
 firstpage: 1594
 lastpage: 1602
 page: 1594-1602

@@ -1,10 +1,10 @@
 ---
-title: " A Multi-Task Learning Approach to Linear Multivariate Forecasting "
-software: " https://github.com/azencot-group/MTLinear "
-openreview: " https://openreview.net/forum?id=u4eUg5lE9l "
-abstract: " Accurate forecasting of multivariate time series data is important in
-  many engineering and scientific applications. Recent state-of-the-art works ignore
-  the inter-relations between variates, using their model on each variate independently.
+title: A Multi-Task Learning Approach to Linear Multivariate Forecasting
+software: https://github.com/azencot-group/MTLinear
+openreview: u4eUg5lE9l
+abstract: Accurate forecasting of multivariate time series data is important in many
+  engineering and scientific applications. Recent state-of-the-art works ignore the
+  inter-relations between variates, using their model on each variate independently.
   This raises several research questions related to proper modeling of multivariate
   data. In this work, we propose to view multivariate forecasting as a multi-task
   learning problem, facilitating the analysis of forecasting by considering the angle
@@ -15,14 +15,14 @@ abstract: " Accurate forecasting of multivariate time series data is important i
   gradients with respect to their prediction error. Then, each task is solved with
   a linear model within our MTLinear framework. We evaluate our approach on challenging
   benchmarks in comparison to strong baselines, and we show it obtains on-par or better
-  results on multivariate forecasting problems. "
+  results on multivariate forecasting problems.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: nochumsohn25a
 month: 0
-tex_title: " A Multi-Task Learning Approach to Linear Multivariate Forecasting "
+tex_title: A Multi-Task Learning Approach to Linear Multivariate Forecasting
 firstpage: 2638
 lastpage: 2646
 page: 2638-2646

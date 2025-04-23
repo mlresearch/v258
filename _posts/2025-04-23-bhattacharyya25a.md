@@ -1,27 +1,27 @@
 ---
-title: " Approximating the Total Variation Distance between Gaussians "
-openreview: " https://openreview.net/forum?id=e4VaDn99jz "
-abstract: " The total variation distance is a metric of central importance in statistics
+title: Approximating the Total Variation Distance between Gaussians
+openreview: e4VaDn99jz
+abstract: The total variation distance is a metric of central importance in statistics
   and probability theory.  However, somewhat surprisingly, questions about computing
-  it \\emph{algorithmically} appear not to have been systematically studied until
-  very recently.  In this paper, we contribute to this line of work by studying this
-  question in the important special case of multivariate Gaussians.  More formally,
-  we consider the problem of approximating the total variation distance between two
-  multivariate Gaussians to within an $\\epsilon$-relative error.  Previous works
-  achieved a \\emph{fixed} constant relative error approximation via closed-form formulas.
-  In this work, we give algorithms that given any two $n$-dimensional Gaussians $D_1,D_2$,
-  and any error bound $\\epsilon > 0$, approximate the total variation distance $D
-  := d_{TV}(D_1,D_2)$ to $\\epsilon$-relative accuracy in $\\mathrm{poly}(n,\\frac{1}{\\epsilon},\\log
-  \\frac{1}{D})$ operations.  The main technical tool in our work is a reduction that
-  helps us extend the recent progress on computing the TV-distance between \\emph{discrete}
-  random variables to our continuous setting. "
+  it \emph{algorithmically} appear not to have been systematically studied until very
+  recently.  In this paper, we contribute to this line of work by studying this question
+  in the important special case of multivariate Gaussians.  More formally, we consider
+  the problem of approximating the total variation distance between two multivariate
+  Gaussians to within an $\epsilon$-relative error.  Previous works achieved a \emph{fixed}
+  constant relative error approximation via closed-form formulas. In this work, we
+  give algorithms that given any two $n$-dimensional Gaussians $D_1,D_2$, and any
+  error bound $\epsilon > 0$, approximate the total variation distance $D := d_{TV}(D_1,D_2)$
+  to $\epsilon$-relative accuracy in $\mathrm{poly}(n,\frac{1}{\epsilon},\log \frac{1}{D})$
+  operations.  The main technical tool in our work is a reduction that helps us extend
+  the recent progress on computing the TV-distance between \emph{discrete} random
+  variables to our continuous setting.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: bhattacharyya25a
 month: 0
-tex_title: " Approximating the Total Variation Distance between Gaussians "
+tex_title: Approximating the Total Variation Distance between Gaussians
 firstpage: 1846
 lastpage: 1854
 page: 1846-1854

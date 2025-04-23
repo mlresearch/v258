@@ -1,8 +1,8 @@
 ---
-title: " Differentiable Causal Structure Learning with Identifiability by NOTIME "
-software: " https://github.com/STAN-UAntwerp/NOTIME "
-openreview: " https://openreview.net/forum?id=C4oYj4q4rC "
-abstract: " The introduction of the NOTEARS algorithm resulted in a wave of research
+title: Differentiable Causal Structure Learning with Identifiability by NOTIME
+software: https://github.com/STAN-UAntwerp/NOTIME
+openreview: C4oYj4q4rC
+abstract: The introduction of the NOTEARS algorithm resulted in a wave of research
   on differentiable Directed Acyclic Graph (DAG) learning. Differentiable DAG learning
   transforms the combinatorial problem of identifying the DAG underlying a Structural
   Causal Model (SCM) into a constrained continuous optimization problem. Being differentiable,
@@ -11,23 +11,23 @@ abstract: " The introduction of the NOTEARS algorithm resulted in a wave of rese
   algorithms, the identifiability properties of differentiable algorithms are poorly
   understood. We illustrate that even in the well-known Linear Non-Gaussian Additive
   Model (LiNGAM), the current state-of-the-art methods do not identify the true underlying
-  DAG. To address the issue, we propose NOTIME  (\\emph{Non-combinatorial Optimization
+  DAG. To address the issue, we propose NOTIME  (\emph{Non-combinatorial Optimization
   of Trace exponential and Independence MEasures}), the first differentiable DAG learning
-  algorithm with \\emph{provable} identifiability guarantees under the LiNGAM by building
+  algorithm with \emph{provable} identifiability guarantees under the LiNGAM by building
   on a measure of (joint) independence. With its identifiability guarantees, NOTIME
   remains invariant to normalization of the data on a population level, a property
   lacking in existing methods. NOTIME compares favourably against NOTEARS and other
   (scale-invariant) differentiable DAG learners, across different noise distributions
   and normalization procedures. Introducing the first identifiability guarantees to
   general LiNGAM is an important step towards practical adoption of differentiable
-  DAG learners. "
+  DAG learners.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: berrevoets25a
 month: 0
-tex_title: " Differentiable Causal Structure Learning with Identifiability by NOTIME "
+tex_title: Differentiable Causal Structure Learning with Identifiability by NOTIME
 firstpage: 3115
 lastpage: 3123
 page: 3115-3123

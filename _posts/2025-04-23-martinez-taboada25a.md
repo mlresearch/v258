@@ -1,8 +1,8 @@
 ---
-title: " Sequential Kernelized Stein Discrepancy "
-software: " https://github.com/DMartinezT/sequential_ksd "
-openreview: " https://openreview.net/forum?id=pW9UW8uDlR "
-abstract: " We present a sequential version of the kernelized Stein discrepancy goodness-of-fit
+title: Sequential Kernelized Stein Discrepancy
+software: https://github.com/DMartinezT/sequential_ksd
+openreview: pW9UW8uDlR
+abstract: We present a sequential version of the kernelized Stein discrepancy goodness-of-fit
   test, which allows for conducting goodness-of-fit tests for unnormalized densities
   that are continuously monitored and adaptively stopped. That is, the sample size
   need not be fixed prior to data collection; the practitioner can choose whether
@@ -13,14 +13,14 @@ abstract: " We present a sequential version of the kernelized Stein discrepancy 
   give way to the subsequent novel sequential tests. We prove the validity of the
   test, as well as an asymptotic lower bound for the logarithmic growth of the wealth
   process under the alternative.  We further illustrate the empirical performance
-  of the test with a variety of distributions, including restricted Boltzmann machines. "
+  of the test with a variety of distributions, including restricted Boltzmann machines.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: martinez-taboada25a
 month: 0
-tex_title: " Sequential Kernelized Stein Discrepancy "
+tex_title: Sequential Kernelized Stein Discrepancy
 firstpage: 1288
 lastpage: 1296
 page: 1288-1296

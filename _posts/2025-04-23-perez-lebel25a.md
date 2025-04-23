@@ -1,8 +1,8 @@
 ---
-title: " Decision from Suboptimal Classifiers: Excess Risk Pre- and Post-Calibration "
-software: " https://github.com/aperezlebel/decision_suboptimal_classifiers "
-openreview: " https://openreview.net/forum?id=euoG9AE8qF "
-abstract: " Probabilistic classifiers are central for making informed decisions under
+title: 'Decision from Suboptimal Classifiers: Excess Risk Pre- and Post-Calibration'
+software: https://github.com/aperezlebel/decision_suboptimal_classifiers
+openreview: euoG9AE8qF
+abstract: Probabilistic classifiers are central for making informed decisions under
   uncertainty. Based on the maximum expected utility principle, optimal decision rules
   can be derived using the posterior class probabilities and misclassification costs.
   Yet, in practice only learned approximations of the oracle posterior probabilities
@@ -17,14 +17,14 @@ abstract: " Probabilistic classifiers are central for making informed decisions 
   grouping loss estimator. On NLP experiments, we show that these quantities identify
   when the expected gain of more advanced post-training is worth the operational cost.
   Finally, we highlight the potential of multicalibration approaches as efficient
-  alternatives to costlier fine-tuning approaches. "
+  alternatives to costlier fine-tuning approaches.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: perez-lebel25a
 month: 0
-tex_title: " Decision from Suboptimal Classifiers: Excess Risk Pre- and Post-Calibration "
+tex_title: 'Decision from Suboptimal Classifiers: Excess Risk Pre- and Post-Calibration'
 firstpage: 2395
 lastpage: 2403
 page: 2395-2403

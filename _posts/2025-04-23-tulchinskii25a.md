@@ -1,9 +1,9 @@
 ---
-title: " RTD-Lite: Scalable Topological Analysis for Comparing Weighted Graphs in
-  Learning Tasks "
-software: " https://github.com/ArGintum/RTD-Lite "
-openreview: " https://openreview.net/forum?id=JoDTjOu693 "
-abstract: " Topological methods for comparing weighted graphs are valuable in various
+title: 'RTD-Lite: Scalable Topological Analysis for Comparing Weighted Graphs in Learning
+  Tasks'
+software: https://github.com/ArGintum/RTD-Lite
+openreview: JoDTjOu693
+abstract: Topological methods for comparing weighted graphs are valuable in various
   learning tasks but often suffer from computational inefficiency on large datasets.
   We introduce RTD-Lite, a scalable algorithm that efficiently compares topological
   features, specifically connectivity or cluster structures at arbitrary scales, of
@@ -15,15 +15,15 @@ abstract: " Topological methods for comparing weighted graphs are valuable in va
   topological differences while significantly reducing computation time compared to
   existing methods. Moreover, integrating RTD-Lite into neural network training as
   a loss function component enhances the preservation of topological structures in
-  learned representations. Our code is publicly available at \\url{https://github.com/ArGintum/RTD-Lite.} "
+  learned representations. Our code is publicly available at \url{https://github.com/ArGintum/RTD-Lite.}
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: tulchinskii25a
 month: 0
-tex_title: " RTD-Lite: Scalable Topological Analysis for Comparing Weighted Graphs
-  in Learning Tasks "
+tex_title: 'RTD-Lite: Scalable Topological Analysis for Comparing Weighted Graphs
+  in Learning Tasks'
 firstpage: 3826
 lastpage: 3834
 page: 3826-3834

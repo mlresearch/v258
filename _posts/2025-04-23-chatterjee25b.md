@@ -1,7 +1,7 @@
 ---
-title: " Generalization Bounds for Dependent Data using Online-to-Batch Conversion. "
-openreview: " https://openreview.net/forum?id=MurWORTaF8 "
-abstract: " In this work, we give generalization bounds of statistical learning algorithms
+title: Generalization Bounds for Dependent Data using Online-to-Batch Conversion.
+openreview: MurWORTaF8
+abstract: In this work, we give generalization bounds of statistical learning algorithms
   trained on samples drawn from a dependent data source both in expectation and with
   high probability, using the Online-to-Batch conversion paradigm. We show that the
   generalization error of statistical learners in the dependent data setting is equivalent
@@ -13,14 +13,14 @@ abstract: " In this work, we give generalization bounds of statistical learning 
   dependent random variables to arrive at appropriate upper bounds for the generalization
   error of statistical learners trained on dependent data. Finally, we prove that
   the Exponential Weighted Averages (EWA) algorithm satisfies our new notion of stability,
-  and instantiate our bounds using the EWA algorithm. "
+  and instantiate our bounds using the EWA algorithm.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chatterjee25b
 month: 0
-tex_title: " Generalization Bounds for Dependent Data using Online-to-Batch Conversion. "
+tex_title: Generalization Bounds for Dependent Data using Online-to-Batch Conversion.
 firstpage: 2152
 lastpage: 2160
 page: 2152-2160

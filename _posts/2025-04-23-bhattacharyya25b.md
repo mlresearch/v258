@@ -1,7 +1,7 @@
 ---
-title: " Learning High-dimensional Gaussians from Censored Data "
-openreview: " https://openreview.net/forum?id=oMWasgN27d "
-abstract: ' We provide efficient algorithms for the problem of distribution learning
+title: Learning High-dimensional Gaussians from Censored Data
+openreview: oMWasgN27d
+abstract: 'We provide efficient algorithms for the problem of distribution learning
   from high-dimensional Gaussian data where in each sample, some of the variable values
   are missing. We suppose that the variables are {\em missing not at random (MNAR)}.
   The missingness model, denoted by $\mathbb{S}(\mathbf{y})$, is the function that
@@ -23,14 +23,14 @@ abstract: ' We provide efficient algorithms for the problem of distribution lear
   and $b_1, …, b_d \in \mathbb{R}$.  We design an efficient mean estimation algorithm,
   assuming that none of the possible missingness patterns is very rare conditioned
   on the values of the observed coordinates and that any small subset of coordinates
-  is observed with sufficiently high probability. '
+  is observed with sufficiently high probability.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: bhattacharyya25b
 month: 0
-tex_title: " Learning High-dimensional Gaussians from Censored Data "
+tex_title: Learning High-dimensional Gaussians from Censored Data
 firstpage: 4132
 lastpage: 4140
 page: 4132-4140

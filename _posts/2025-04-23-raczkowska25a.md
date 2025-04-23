@@ -1,9 +1,9 @@
 ---
-title: " AlleNoise - large-scale text classification benchmark dataset with real-world
-  label noise "
-software: " https://github.com/allegro/AlleNoise "
-openreview: " https://openreview.net/forum?id=Oq3ldAhvEC "
-abstract: " Label noise remains a challenge for training robust classification models.
+title: AlleNoise - large-scale text classification benchmark dataset with real-world
+  label noise
+software: https://github.com/allegro/AlleNoise
+openreview: Oq3ldAhvEC
+abstract: Label noise remains a challenge for training robust classification models.
   Most methods for mitigating label noise have been benchmarked using primarily datasets
   with synthetic noise. While the need for datasets with realistic noise distribution
   has partially been addressed by web-scraped benchmarks such as WebVision and Clothing1M,
@@ -22,15 +22,15 @@ abstract: " Label noise remains a challenge for training robust classification m
   do not alleviate excessive memorization. As such, with AlleNoise, we set a high
   bar for the development of label noise methods that can handle real-world label
   noise in text classification tasks. The code and dataset are available for download
-  at \\url{https://github.com/allegro/AlleNoise.} "
+  at \url{https://github.com/allegro/AlleNoise.}
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: raczkowska25a
 month: 0
-tex_title: " AlleNoise - large-scale text classification benchmark dataset with real-world
-  label noise "
+tex_title: AlleNoise - large-scale text classification benchmark dataset with real-world
+  label noise
 firstpage: 5113
 lastpage: 5121
 page: 5113-5121

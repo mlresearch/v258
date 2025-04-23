@@ -1,8 +1,8 @@
 ---
-title: " Collaborative non-parametric two-sample testing "
-software: " https://alejandrodelaconcha.github.io/ "
-openreview: " https://openreview.net/forum?id=oJdVh3hzCC "
-abstract: " Multiple two-sample test problem in a graph-structured setting is a common
+title: Collaborative non-parametric two-sample testing
+software: https://alejandrodelaconcha.github.io/
+openreview: oJdVh3hzCC
+abstract: Multiple two-sample test problem in a graph-structured setting is a common
   scenario in fields such as Spatial Statistics and Neuroscience. Each node $v$ in
   fixed graph deals with a two-sample testing problem between two node-specific probability
   density functions, $p_v$ and $q_v$. The goal is to identify nodes where the null
@@ -13,14 +13,14 @@ abstract: " Multiple two-sample test problem in a graph-structured setting is a 
   estimation, Kernel Methods, and Multitask Learning. We use synthetic experiments
   and a real sensor network detecting seismic activity to demonstrate that CTST outperforms
   state-of-the-art non-parametric statistical tests that apply at each node independently,
-  hence disregard the geometry of the problem. "
+  hence disregard the geometry of the problem.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: concha-duarte25a
 month: 0
-tex_title: " Collaborative non-parametric two-sample testing "
+tex_title: Collaborative non-parametric two-sample testing
 firstpage: 838
 lastpage: 846
 page: 838-846

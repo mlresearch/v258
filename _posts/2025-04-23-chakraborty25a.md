@@ -1,9 +1,9 @@
 ---
-title: " Improving Pre-trained Self-Supervised Embeddings Through Effective Entropy
-  Maximization "
-software: " https://github.com/deepc94/e2mc "
-openreview: " https://openreview.net/forum?id=4yQg5rixo0 "
-abstract: " A number of different architectures and loss functions have been applied
+title: Improving Pre-trained Self-Supervised Embeddings Through Effective Entropy
+  Maximization
+software: https://github.com/deepc94/e2mc
+openreview: 4yQg5rixo0
+abstract: A number of different architectures and loss functions have been applied
   to the problem of self-supervised learning (SSL), with the goal of developing embeddings
   that provide the best possible pre-training for as-yet-unknown, lightly supervised
   downstream tasks. One of these SSL criteria is to maximize the entropy of a set
@@ -16,15 +16,15 @@ abstract: " A number of different architectures and loss functions have been app
   and, in some cases, significant improvement in downstream performance. We perform
   careful ablation studies to show that the improved performance is due to the proposed
   add-on criterion. We also show that continued pre-training with alternative criteria
-  does not lead to notable improvements, and in some cases, even degrades performance. "
+  does not lead to notable improvements, and in some cases, even degrades performance.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chakraborty25a
 month: 0
-tex_title: " Improving Pre-trained Self-Supervised Embeddings Through Effective Entropy
-  Maximization "
+tex_title: Improving Pre-trained Self-Supervised Embeddings Through Effective Entropy
+  Maximization
 firstpage: 433
 lastpage: 441
 page: 433-441

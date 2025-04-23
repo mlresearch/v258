@@ -1,8 +1,8 @@
 ---
-title: " Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience
-  via SDEs "
-openreview: " https://openreview.net/forum?id=RRrftHtEfK "
-abstract: " Distributed methods are essential for handling machine learning pipelines
+title: 'Unbiased and Sign Compression in Distributed Learning: Comparing Noise Resilience
+  via SDEs'
+openreview: RRrftHtEfK
+abstract: Distributed methods are essential for handling machine learning pipelines
   comprising large-scale models and datasets. However, their benefits often come at
   the cost of increased communication overhead between the central server and agents,
   which can become the main bottleneck, making training costly or even unfeasible
@@ -16,15 +16,15 @@ abstract: " Distributed methods are essential for handling machine learning pipe
   noise. Additionally, we propose new scaling rules for hyperparameter tuning to mitigate
   performance degradation due to compression. These findings are empirically validated
   across multiple deep learning architectures and datasets, providing practical recommendations
-  for distributed optimization. "
+  for distributed optimization.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: compagnoni25a
 month: 0
-tex_title: " Unbiased and Sign Compression in Distributed Learning: Comparing Noise
-  Resilience via SDEs "
+tex_title: 'Unbiased and Sign Compression in Distributed Learning: Comparing Noise
+  Resilience via SDEs'
 firstpage: 4087
 lastpage: 4095
 page: 4087-4095

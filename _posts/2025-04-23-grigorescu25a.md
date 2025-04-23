@@ -1,8 +1,8 @@
 ---
-title: " Learning-Augmented Algorithms for Online Concave Packing and Convex Covering
-  Problems "
-openreview: " https://openreview.net/forum?id=NgltBQndiq "
-abstract: " \\emph{Learning-augmented algorithms} have been extensively studied in
+title: Learning-Augmented Algorithms for Online Concave Packing and Convex Covering
+  Problems
+openreview: NgltBQndiq
+abstract: "\\emph{Learning-augmented algorithms} have been extensively studied in
   the computer science community recently, particularly in the context of online problems,
   in which machine-learning predictors can help provide additional information about
   the future, in order to overcome classical impossibility results. Such algorithms
@@ -16,15 +16,15 @@ abstract: " \\emph{Learning-augmented algorithms} have been extensively studied 
   and previous learning-augmented framework for online covering linear programs from
   the literature, to many new applications. We show that our algorithms break impossibility
   results when the advice is accurate, while maintaining comparable performance with
-  state-of-the-art classical online algorithms even when the advice is erroneous. "
+  state-of-the-art classical online algorithms even when the advice is erroneous."
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: grigorescu25a
 month: 0
-tex_title: " Learning-Augmented Algorithms for Online Concave Packing and Convex Covering
-  Problems "
+tex_title: Learning-Augmented Algorithms for Online Concave Packing and Convex Covering
+  Problems
 firstpage: 1072
 lastpage: 1080
 page: 1072-1080

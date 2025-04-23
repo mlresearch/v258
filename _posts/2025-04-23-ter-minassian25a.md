@@ -1,8 +1,8 @@
 ---
-title: " Hierarchical Bias-Driven Stratification for Interpretable Causal Effect Estimation "
-software: " https://github.com/IBM-HRL-MLHLS/BICause-Trees "
-openreview: " https://openreview.net/forum?id=WdcA7v7uzc "
-abstract: " Modelling causal effects from observational data for deciding policy actions
+title: Hierarchical Bias-Driven Stratification for Interpretable Causal Effect Estimation
+software: https://github.com/IBM-HRL-MLHLS/BICause-Trees
+openreview: WdcA7v7uzc
+abstract: 'Modelling causal effects from observational data for deciding policy actions
   can benefit from being interpretable and transparent; both due to the high stakes
   involved and the inherent lack of ground truth labels to evaluate the accuracy of
   such models. To date, attempts at transparent causal effect estimation consist of
@@ -14,15 +14,15 @@ abstract: " Modelling causal effects from observational data for deciding policy
   violations, exclude them, and provide a covariate-based definition of the target
   population we can infer from and generalize to. We evaluate the method’s performance
   using synthetic and realistic datasets, explore its bias-interpretability tradeoff,
-  and show that it is comparable with existing approaches. "
+  and show that it is comparable with existing approaches.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: ter-minassian25a
 month: 0
-tex_title: " Hierarchical Bias-Driven Stratification for Interpretable Causal Effect
-  Estimation "
+tex_title: Hierarchical Bias-Driven Stratification for Interpretable Causal Effect
+  Estimation
 firstpage: 1900
 lastpage: 1908
 page: 1900-1908

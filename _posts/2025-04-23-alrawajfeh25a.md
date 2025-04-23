@@ -1,8 +1,8 @@
 ---
-title: " Noise-Aware Differentially Private Variational Inference "
-software: " https://github.com/DPBayes/noise-aware-dpvi "
-openreview: " https://openreview.net/forum?id=mkzKiQodnz "
-abstract: " Differential privacy (DP) provides robust privacy guarantees for statistical
+title: Noise-Aware Differentially Private Variational Inference
+software: https://github.com/DPBayes/noise-aware-dpvi
+openreview: mkzKiQodnz
+abstract: Differential privacy (DP) provides robust privacy guarantees for statistical
   inference, but this can lead to unreliable results and biases in downstream applications.
   While several noise-aware approaches have been proposed which integrate DP perturbation
   into the inference, they are limited to specific types of simple probabilistic models.
@@ -13,14 +13,14 @@ abstract: " Differential privacy (DP) provides robust privacy guarantees for sta
   performance to existing methods in the domain where they are applicable. Outside
   this domain, we obtain accurate coverages on high-dimensional Bayesian linear regression
   and well-calibrated predictive probabilities on Bayesian logistic regression with
-  the UCI Adult dataset. "
+  the UCI Adult dataset.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: alrawajfeh25a
 month: 0
-tex_title: " Noise-Aware Differentially Private Variational Inference "
+tex_title: Noise-Aware Differentially Private Variational Inference
 firstpage: 4987
 lastpage: 4995
 page: 4987-4995

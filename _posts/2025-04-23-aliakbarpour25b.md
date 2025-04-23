@@ -1,7 +1,7 @@
 ---
-title: " Privacy in Metalearning and Multitask Learning: Modeling and Separations "
-openreview: " https://openreview.net/forum?id=JOkn8uueMg "
-abstract: " Model personalization allows a set of individuals, each facing a different
+title: 'Privacy in Metalearning and Multitask Learning: Modeling and Separations'
+openreview: JOkn8uueMg
+abstract: Model personalization allows a set of individuals, each facing a different
   learning task, to train models that are more accurate for each person than those
   they could develop individually. The goals of personalization are captured in a
   variety of formal frameworks, such as multitask learning and metalearning. Combining
@@ -13,14 +13,14 @@ abstract: " Model personalization allows a set of individuals, each facing a dif
   as well as different threat models for the attacker. Our second main contribution
   is to prove separations between the personalized learning problems corresponding
   to different choices.  In particular, we prove a novel separation between private
-  multitask learning and private metalearning. "
+  multitask learning and private metalearning.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: aliakbarpour25b
 month: 0
-tex_title: " Privacy in Metalearning and Multitask Learning: Modeling and Separations "
+tex_title: 'Privacy in Metalearning and Multitask Learning: Modeling and Separations'
 firstpage: 4096
 lastpage: 4104
 page: 4096-4104

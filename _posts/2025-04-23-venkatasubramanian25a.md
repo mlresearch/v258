@@ -1,8 +1,8 @@
 ---
-title: " Steinmetz Neural Networks for Complex-Valued Data "
-software: " https://github.com/shyamven/SteinmetzNeuralNetworks "
-openreview: " https://openreview.net/forum?id=Ymn23Osn4g "
-abstract: " We introduce a new approach to processing complex-valued data using DNNs
+title: Steinmetz Neural Networks for Complex-Valued Data
+software: https://github.com/shyamven/SteinmetzNeuralNetworks
+openreview: Ymn23Osn4g
+abstract: We introduce a new approach to processing complex-valued data using DNNs
   consisting of parallel real-valued subnetworks with coupled outputs. Our proposed
   class of architectures, referred to as Steinmetz Neural Networks, incorporates multi-view
   learning to construct more interpretable representations in the latent space. Moreover,
@@ -13,14 +13,14 @@ abstract: " We introduce a new approach to processing complex-valued data using 
   we demonstrate that the generalization gap upper bound posited by the analytic neural
   network is lower than that of the general class of Steinmetz neural networks. Our
   numerical experiments depict the improved performance and robustness to additive
-  noise, afforded by our proposed networks on benchmark datasets and synthetic examples. "
+  noise, afforded by our proposed networks on benchmark datasets and synthetic examples.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: venkatasubramanian25a
 month: 0
-tex_title: " Steinmetz Neural Networks for Complex-Valued Data "
+tex_title: Steinmetz Neural Networks for Complex-Valued Data
 firstpage: 3916
 lastpage: 3924
 page: 3916-3924

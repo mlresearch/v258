@@ -1,9 +1,9 @@
 ---
-title: " When the Universe is Too Big: Bounding Consideration Probabilities for Plackett-Luce
-  Rankings "
-software: " https://github.com/aoki-sherwoodb/bounding-consideration-probs "
-openreview: " https://openreview.net/forum?id=l0gLH8H3Xe "
-abstract: " The widely used Plackett-Luce ranking model assumes that individuals rank
+title: 'When the Universe is Too Big: Bounding Consideration Probabilities for Plackett-Luce
+  Rankings'
+software: https://github.com/aoki-sherwoodb/bounding-consideration-probs
+openreview: l0gLH8H3Xe
+abstract: The widely used Plackett-Luce ranking model assumes that individuals rank
   items by making repeated choices from a universe of items. But in many cases the
   universe is too big for people to plausibly consider all options. In the choice
   literature, this issue has been addressed by supposing that individuals first sample
@@ -24,15 +24,15 @@ abstract: " The widely used Plackett-Luce ranking model assumes that individuals
   a ranking dataset from a psychology experiment with two different ranking tasks
   (one with fixed consideration sets and one with unknown consideration sets). This
   combination of data allows us to estimate utilities and then learn about unknown
-  consideration probabilities using our bounds. "
+  consideration probabilities using our bounds.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: aoki-sherwood25a
 month: 0
-tex_title: " When the Universe is Too Big: Bounding Consideration Probabilities for
-  Plackett-Luce Rankings "
+tex_title: 'When the Universe is Too Big: Bounding Consideration Probabilities for
+  Plackett-Luce Rankings'
 firstpage: 2368
 lastpage: 2376
 page: 2368-2376

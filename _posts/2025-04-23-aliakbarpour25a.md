@@ -1,9 +1,9 @@
 ---
-title: " Enhancing Feature-Specific Data Protection via Bayesian Coordinate Differential
-  Privacy "
-software: " https://github.com/syomantak/BCDP-CodeBase.git "
-openreview: " https://openreview.net/forum?id=EJq51evClI "
-abstract: " Local Differential Privacy (LDP) offers strong privacy guarantees without
+title: Enhancing Feature-Specific Data Protection via Bayesian Coordinate Differential
+  Privacy
+software: https://github.com/syomantak/BCDP-CodeBase.git
+openreview: EJq51evClI
+abstract: Local Differential Privacy (LDP) offers strong privacy guarantees without
   requiring users to trust external parties. However, LDP applies uniform protection
   to all data features, including less sensitive ones, which degrades performance
   of downstream tasks. To overcome this limitation, we propose a Bayesian framework,
@@ -14,15 +14,15 @@ abstract: " Local Differential Privacy (LDP) offers strong privacy guarantees wi
   of BCDP and articulate its connections with  standard non-Bayesian privacy frameworks.
   We further apply our BCDP framework to the problems of private mean estimation and
   ordinary least-squares regression. The BCDP-based approach obtains improved accuracy
-  compared to a purely LDP-based approach, without compromising on privacy. "
+  compared to a purely LDP-based approach, without compromising on privacy.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: aliakbarpour25a
 month: 0
-tex_title: " Enhancing Feature-Specific Data Protection via Bayesian Coordinate Differential
-  Privacy "
+tex_title: Enhancing Feature-Specific Data Protection via Bayesian Coordinate Differential
+  Privacy
 firstpage: 4069
 lastpage: 4077
 page: 4069-4077

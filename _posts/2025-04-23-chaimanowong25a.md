@@ -1,8 +1,8 @@
 ---
-title: " Permutation Invariant Functions: Statistical Testing, Density Estimation,
-  and Metric Entropy "
-openreview: " https://openreview.net/forum?id=6HWDypPncm "
-abstract: " Permutation invariance is among the most common symmetries that can be
+title: 'Permutation Invariant Functions: Statistical Testing, Density Estimation,
+  and Metric Entropy'
+openreview: 6HWDypPncm
+abstract: 'Permutation invariance is among the most common symmetries that can be
   exploited to simplify complex problems in machine learning. There has been a tremendous
   surge of research activities in building permutation invariant machine learning
   architectures. However, less attention is given to: (1) how to statistically test
@@ -14,15 +14,15 @@ abstract: " Permutation invariance is among the most common symmetries that can 
   our testing method is based on a sorting trick, and our estimation method is based
   on an averaging trick. These tricks substantially simplify the exploitation of permutation
   invariance. We also analyze the metric entropy of permutation invariant function
-  classes and compare them with their counterparts without imposing permutation invariance. "
+  classes and compare them with their counterparts without imposing permutation invariance.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: chaimanowong25a
 month: 0
-tex_title: " Permutation Invariant Functions: Statistical Testing, Density Estimation,
-  and Metric Entropy "
+tex_title: 'Permutation Invariant Functions: Statistical Testing, Density Estimation,
+  and Metric Entropy'
 firstpage: 2908
 lastpage: 2916
 page: 2908-2916

@@ -1,9 +1,9 @@
 ---
-title: " The Sample Complexity of Stackelberg Games "
-openreview: " https://openreview.net/forum?id=7lccoXFMVh "
-abstract: " Stackelberg games (SGs) constitute the most fundamental and acclaimed
-  models of strategic interactions involving some form of commitment. Moreover, they
-  form the basis of more elaborate models of this kind, such as, e.g., Bayesian persuasion
+title: The Sample Complexity of Stackelberg Games
+openreview: 7lccoXFMVh
+abstract: Stackelberg games (SGs) constitute the most fundamental and acclaimed models
+  of strategic interactions involving some form of commitment. Moreover, they form
+  the basis of more elaborate models of this kind, such as, e.g., Bayesian persuasion
   and principal-agent problems. Addressing learning tasks in SGs and related models
   is crucial to operationalize them in practice, where model parameters are usually
   unknown. In this paper, we revise the sample complexity of learning an optimal strategy
@@ -14,14 +14,14 @@ abstract: " Stackelberg games (SGs) constitute the most fundamental and acclaime
   neglected by existing algorithms and, if not properly managed, it may result in
   them using exponentially-many samples. Our algorithm requires novel techniques,
   which also pave the way to addressing learning problems in other models with commitment
-  ubiquitous in the real world. "
+  ubiquitous in the real world.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: bacchiocchi25a
 month: 0
-tex_title: " The Sample Complexity of Stackelberg Games "
+tex_title: The Sample Complexity of Stackelberg Games
 firstpage: 2053
 lastpage: 2061
 page: 2053-2061

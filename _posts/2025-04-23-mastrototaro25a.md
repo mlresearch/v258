@@ -1,8 +1,8 @@
 ---
-title: " Recursive Learning of Asymptotic Variational Objectives "
-software: " https://github.com/matmulKTH/OSIWAE "
-openreview: " https://openreview.net/forum?id=O65WHcy4FR "
-abstract: " General state-space models (SSMs) are widely used in statistical machine
+title: Recursive Learning of Asymptotic Variational Objectives
+software: https://github.com/matmulKTH/OSIWAE
+openreview: O65WHcy4FR
+abstract: General state-space models (SSMs) are widely used in statistical machine
   learning and are among the most classical generative models for sequential time-series
   data. SSMs, comprising latent Markovian states, can be subjected to variational
   inference (VI), but standard VI methods like the importance-weighted autoencoder
@@ -17,14 +17,14 @@ abstract: " General state-space models (SSMs) are widely used in statistical mac
   framework for online VI in SSMs. This approach is more theoretically well-founded
   than recently proposed online variational SMC methods. We provide rigorous theoretical
   results on the learning objective and a numerical study demonstrating the method’s
-  efficiency in learning model parameters and particle proposal kernels. "
+  efficiency in learning model parameters and particle proposal kernels.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: mastrototaro25a
 month: 0
-tex_title: " Recursive Learning of Asymptotic Variational Objectives "
+tex_title: Recursive Learning of Asymptotic Variational Objectives
 firstpage: 1432
 lastpage: 1440
 page: 1432-1440

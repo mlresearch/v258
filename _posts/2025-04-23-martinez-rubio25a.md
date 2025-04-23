@@ -1,26 +1,26 @@
 ---
-title: " Accelerated Methods for Riemannian Min-Max Optimization Ensuring Bounded
-  Geometric Penalties "
-openreview: " https://openreview.net/forum?id=KskYMxXVKX "
-abstract: " In this work, we study optimization problems of the form $\\min_x \\max_y
-  f(x, y)$, where $f(x, y)$ is defined on a product Riemannian manifold $\\mathcal{M}
-  \\times \\mathcal{N}$ and is $\\mu_x$-strongly geodesically convex (g-convex) in
-  $x$ and $\\mu_y$-strongly g-concave in $y$, for $\\mu_x, \\mu_y \\geq 0$. We design
-  accelerated methods when $f$ is $(L_x, L_y, L_{xy})$-smooth and $\\mathcal{M}$,
-  $\\mathcal{N}$ are Hadamard. To that aim we introduce new g-convex optimization
-  results, of independent interest: we show global linear convergence for metric-projected
-  Riemannian gradient descent and improve existing accelerated methods by reducing
-  geometric constants. Additionally, we complete the analysis of two previous works
-  applying to the Riemannian min-max case by removing an assumption about iterates
-  staying in a pre-specified compact set. "
+title: Accelerated Methods for Riemannian Min-Max Optimization Ensuring Bounded Geometric
+  Penalties
+openreview: KskYMxXVKX
+abstract: 'In this work, we study optimization problems of the form $\min_x \max_y
+  f(x, y)$, where $f(x, y)$ is defined on a product Riemannian manifold $\mathcal{M}
+  \times \mathcal{N}$ and is $\mu_x$-strongly geodesically convex (g-convex) in $x$
+  and $\mu_y$-strongly g-concave in $y$, for $\mu_x, \mu_y \geq 0$. We design accelerated
+  methods when $f$ is $(L_x, L_y, L_{xy})$-smooth and $\mathcal{M}$, $\mathcal{N}$
+  are Hadamard. To that aim we introduce new g-convex optimization results, of independent
+  interest: we show global linear convergence for metric-projected Riemannian gradient
+  descent and improve existing accelerated methods by reducing geometric constants.
+  Additionally, we complete the analysis of two previous works applying to the Riemannian
+  min-max case by removing an assumption about iterates staying in a pre-specified
+  compact set.'
 layout: inproceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
 issn: 2640-3498
 id: martinez-rubio25a
 month: 0
-tex_title: " Accelerated Methods for Riemannian Min-Max Optimization Ensuring Bounded
-  Geometric Penalties "
+tex_title: Accelerated Methods for Riemannian Min-Max Optimization Ensuring Bounded
+  Geometric Penalties
 firstpage: 280
 lastpage: 288
 page: 280-288
