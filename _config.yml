@@ -1,0 +1,97 @@
+---
+booktitle: Proceedings of The 28th International Conference on Artificial Intelligence
+  and Statistics
+shortname: AISTATS
+volume: '258'
+year: '2025'
+start: &1 2025-05-03
+end: 2025-05-05
+published: 2025-04-23
+location: Mai Khao, Thailand
+conference_number: '28'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: AISTATS-2025
+month: 0
+cycles: false
+bibtex_editor: Li, Yingzhen and Mandt, Stephan and Agrawal, Shipra and Khan, Emtiyaz
+editor:
+- given: Yingzhen
+  family: Li
+- given: Stephan
+  family: Mandt
+- given: Shipra
+  family: Agrawal
+- given: Emtiyaz
+  family: Khan
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 28th International Conference on Artificial Intelligence and Statistics
+    Held in Splash Beach Resort in Mai Khao, Thailand on 03-05 May 2025
+
+  Published as Volume 258 by the Proceedings of Machine Learning Research on 23 April 2025.
+
+  Volume Edited by:
+    Yingzhen Li
+    Stephan Mandt
+    Shipra Agrawal
+    Emtiyaz Khan
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 03--05 May
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v258"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v258
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v258
+email: ''
+conference:
+  name: International Conference on Artificial Intelligence and Statistics
+  url: http://aistats.org/aistats2025/
+  location: Splash Beach Resort in Mai Khao, Thailand
+  dates:
+  - *1
+  - 2025-05-04
+  - 2025-05-05
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: "/Users/neil/mlresearch/v258/aistats25.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v258/aistats25.bib
