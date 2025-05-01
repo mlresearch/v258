@@ -1,5 +1,5 @@
 ---
-title: "$q\\textttPOTS$: Efficient Batch Multiobjective Bayesian Optimization via
+title: "qPOTS: Efficient Batch Multiobjective Bayesian Optimization via
   Pareto Optimal Thompson Sampling"
 software: https://github.com/csdlpsu/qpots
 openreview: 5qYVbLA1lK
