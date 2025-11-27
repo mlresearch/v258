@@ -29,7 +29,7 @@ publisher: PMLR
 issn: 2640-3498
 id: renganathan25a
 month: 0
-tex_title: "$q\\texttt{POTS}$: Efficient Batch Multiobjective Bayesian Optimization
+tex_title: "qPOTS: Efficient Batch Multiobjective Bayesian Optimization
   via Pareto Optimal Thompson Sampling"
 firstpage: 4051
 lastpage: 4059
