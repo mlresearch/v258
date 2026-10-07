@@ -4,7 +4,7 @@ booktitle: Proceedings of The 28th International Conference on Artificial Intell
 shortname: AISTATS
 volume: '258'
 year: '2025'
-start: &1 2025-05-03
+start: 2025-05-03
 end: 2025-05-05
 published: 2025-04-23
 location: Mai Khao, Thailand
@@ -77,7 +77,7 @@ conference:
   url: http://aistats.org/aistats2025/
   location: Splash Beach Resort in Mai Khao, Thailand
   dates:
-  - *1
+  - 2025-05-03
   - 2025-05-04
   - 2025-05-05
 analytics:
